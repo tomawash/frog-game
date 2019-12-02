@@ -20,4 +20,4 @@ Programmed using Clickteam Fusion 2.5
 Pixel art and animations all done by me using Aseprite  
 Sound effects downloaded off of https://freesound.org/  
 
-Project done for Professor Goetz's CISC 3630 class, Fall 2020
+Project done for Professor Goetz's CISC 3630 class, Fall 2019
